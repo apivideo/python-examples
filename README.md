@@ -3,8 +3,8 @@
 # API Video 
 [API Video](https://api.video/) lets you easily add video communication - recording and sharing - to all your applications.
 
-# python-examples
-These are code samples for working with api.video in Python. Grab a sample that matches your use case and you can use it as-needed. These samples use the requests library, which you may need to install if you haven't already. 
+# python-examples (without an SDK)
+These are code samples for working with api.video in Python without an SDK. Grab a sample that matches your use case and you can use it as-needed. These samples use the requests library, which you may need to install if you haven't already. 
 
 # Available Samples:
 
