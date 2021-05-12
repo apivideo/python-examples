@@ -26,7 +26,7 @@ These are code samples for working with api.video in Python without an SDK. Grab
 * [List Videos By liveStreamId](https://github.com/apivideo/python-examples/blob/main/videos/list_videos_by_livestreamid.py)
 * [Pick a Thumbnail](https://github.com/apivideo/python-examples/blob/main/videos/pick_a_thumbnail.py)
 * [Upload a Thumbnail](https://github.com/apivideo/python-examples/blob/main/videos/upload_a_thumbnail.py)
-* [Upload a Video From Your Computer (works for files under 128MB)](https://github.com/apivideo/python-examples/blob/main/upload_from_computer.py)
+* [Upload a Video From Your Computer (works for files under 128MB)](https://github.com/apivideo/python-examples/blob/main/videos/upload_from_computer.py)
 * [Upload a Large Video (works for files 128MB and up)](https://github.com/apivideo/python-examples/blob/main/videos/upload_large_video.py)
 * [Upload a Video by URL](https://github.com/apivideo/python-examples/blob/main/upload_video_by_url.py)
 
