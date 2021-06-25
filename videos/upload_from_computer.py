@@ -43,7 +43,7 @@ response = response.json()
 videoId = response["videoId"]
 
 # Create endpoint to upload your video to - you have to add the videoId into the URL
-upload_url = upload_url + "/" + videoId + "/source"
+upload_url = create_url + "/" + videoId + "/source"
 
 # Create upload video headers 
 headers_upload = {
