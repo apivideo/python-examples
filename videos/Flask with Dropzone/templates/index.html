@@ -20,8 +20,7 @@
         parallelUploads: 10,
         maxFiles: 10,
         init: function() {
-          var submitButton = document.querySelector("#submit-all")
-             myDropzone = this; // closure
+          myDropzone = this; // closure
 
           this.element.querySelector("button[type=submit]").addEventListener("click", function(e) {
             e.preventDefault();
