@@ -4,7 +4,6 @@ import os, requests
 app = Flask(__name__)
 
 app.config['UPLOAD_EXTENSIONS'] = ['.mov', '.mp4', '.m4v', '.jpm', '.jp2', '.3gp', '.3g2', '.mkv', '.mpg', '.ogv', '.webm', '.wmv' ]
-app.config['UPLOAD_PATH'] = 'uploads'
 
 @app.errorhandler(413)
 def too_large(e):
