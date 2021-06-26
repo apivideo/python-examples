@@ -53,8 +53,7 @@ def upload_file():
 
     # Create the video container payload, you can add more parameters if you like, check the docs at [https://docs.api.video](https://docs.api.video)
         payload2 = {
-            "title": uploaded_file.filename,
-            "description": "Video upload of Big Buck Bunny to demo how to do an upload from a folder on your computer."
+            "title": uploaded_file.filename
         }
 
     # Send the request to create the container, and retrieve the videoId from the response.
