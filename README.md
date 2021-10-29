@@ -1,7 +1,12 @@
+[![badge](https://img.shields.io/twitter/follow/api_video?style=social)](https://twitter.com/intent/follow?screen_name=api_video)
+
+[![badge](https://img.shields.io/github/stars/apivideo/python-examples?style=social)](https://github.com/apivideo/python-examples)
+
+[![badge](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fcommunity.api.video)](https://community.api.video)
+
 ![](https://github.com/apivideo/API_OAS_file/blob/master/apivideo_banner.png)
 
-# API Video 
-[API Video](https://api.video/) lets you easily add video communication - recording and sharing - to all your applications.
+api.video is an API that encodes on the go to facilitate immediate playback, enhancing viewer streaming experiences across multiple devices and platforms. You can stream live or on-demand online videos within minutes.
 
 # python-examples (without an SDK)
 These are code samples for working with api.video in Python without an SDK. Grab a sample that matches your use case and you can use it as-needed. These samples use the requests library, which you may need to install if you haven't already. 
