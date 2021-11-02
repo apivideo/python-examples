@@ -6,7 +6,7 @@
 
 ![](https://github.com/apivideo/API_OAS_file/blob/master/apivideo_banner.png)
 
-api.video is an API that encodes on the go to facilitate immediate playback, enhancing viewer streaming experiences across multiple devices and platforms. You can stream live or on-demand online videos within minutes.
+[api.video](https://api.video) is an API that encodes on the go to facilitate immediate playback, enhancing viewer streaming experiences across multiple devices and platforms. You can stream live or on-demand online videos within minutes.
 
 # python-examples (without an SDK)
 These are code samples for working with api.video in Python without an SDK. Grab a sample that matches your use case and you can use it as-needed. These samples use the requests library, which you may need to install if you haven't already. 
