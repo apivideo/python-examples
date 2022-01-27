@@ -1,4 +1,4 @@
-# How to upload a large video that is over 128 MB to api.video. (Though this script will also work for videos under 128 MB if you want to test it out.)
+# How to upload a large video that is 200 MiB or bigger to api.video. (Though this script will also work for videos under 200 MiB if you want to test it out.)
 
 import requests
 import os 
