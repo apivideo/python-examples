@@ -64,7 +64,7 @@ These are code samples for working with api.video in Python without an SDK. Grab
 * [Listing, Retrieving, and Deleting Delegated Tokens](https://api.video/blog/tutorials/listing-retrieving-and-deleting-delegated-tokens)
 
 ## Analytics Endpoint Tutorials 
-* [Api.video Analytics: Add Markers Representing Viewer Density Per City to a Map with Observable](https://api.video/blog/tutorials/api-video-analytics-add-markers-representing-viewer-density-per-city-to-a-map-wit)
-* [Api.video Analytics: Build a Choropleth Map (and Find Out What One Is)](https://api.video/blog/tutorials/use-observable-to-create-a-choropleth-map-of-your-viewers) 
-* [Api.video Analytics: Create a Pie Chart Showing What Operating System is Most Popular to View](https://api.video/blog/tutorials/api-video-analytics-create-a-pie-chart-showing-operating-system)
+* [api.video Analytics: Add Markers Representing Viewer Density Per City to a Map with Observable](https://api.video/blog/tutorials/api-video-analytics-add-markers-representing-viewer-density-per-city-to-a-map-wit)
+* [api.video Analytics: Build a Choropleth Map (and Find Out What One Is)](https://api.video/blog/tutorials/use-observable-to-create-a-choropleth-map-of-your-viewers) 
+* [api.video Analytics: Create a Pie Chart Showing What Operating System is Most Popular to View](https://api.video/blog/tutorials/api-video-analytics-create-a-pie-chart-showing-operating-system)
 * [Using Analytics to Analyze Where to Edit a Video](https://api.video/blog/tutorials/using-analytics-to-analyze-where-to-edit-a-video)
